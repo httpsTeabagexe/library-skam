@@ -1,4 +1,4 @@
-```markdown
+
 # Photo Downloader and PDF Combiner
 
 ## Description
